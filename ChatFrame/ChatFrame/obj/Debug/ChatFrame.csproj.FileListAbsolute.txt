@@ -1,0 +1,18 @@
+C:\Users\MB Lap\source\repos\ChatFrame\ChatFrame\bin\ChatFrame.dll.config
+C:\Users\MB Lap\source\repos\ChatFrame\ChatFrame\bin\ChatFrame.dll
+C:\Users\MB Lap\source\repos\ChatFrame\ChatFrame\bin\ChatFrame.pdb
+C:\Users\MB Lap\source\repos\ChatFrame\ChatFrame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MB Lap\source\repos\ChatFrame\ChatFrame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MB Lap\source\repos\ChatFrame\ChatFrame\obj\Debug\ChatFrame.csprojResolveAssemblyReference.cache
+C:\Users\MB Lap\source\repos\ChatFrame\ChatFrame\obj\Debug\ChatFrame.csproj.CoreCompileInputs.cache
+C:\Users\MB Lap\source\repos\ChatFrame\ChatFrame\obj\Debug\ChatFrame.dll
+C:\Users\MB Lap\source\repos\ChatFrame\ChatFrame\obj\Debug\ChatFrame.pdb
+C:\Users\mikabro\source\repos\ChatFrame\ChatFrame\bin\ChatFrame.dll.config
+C:\Users\mikabro\source\repos\ChatFrame\ChatFrame\bin\ChatFrame.dll
+C:\Users\mikabro\source\repos\ChatFrame\ChatFrame\bin\ChatFrame.pdb
+C:\Users\mikabro\source\repos\ChatFrame\ChatFrame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mikabro\source\repos\ChatFrame\ChatFrame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mikabro\source\repos\ChatFrame\ChatFrame\obj\Debug\ChatFrame.csprojResolveAssemblyReference.cache
+C:\Users\mikabro\source\repos\ChatFrame\ChatFrame\obj\Debug\ChatFrame.csproj.CoreCompileInputs.cache
+C:\Users\mikabro\source\repos\ChatFrame\ChatFrame\obj\Debug\ChatFrame.dll
+C:\Users\mikabro\source\repos\ChatFrame\ChatFrame\obj\Debug\ChatFrame.pdb
