@@ -75,19 +75,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Box.aspx" />
     <Content Include="Box2.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Box.aspx.cs">
-      <DependentUpon>Box.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Box.aspx.designer.cs">
-      <DependentUpon>Box.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Box2.aspx.cs">
       <DependentUpon>Box2.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

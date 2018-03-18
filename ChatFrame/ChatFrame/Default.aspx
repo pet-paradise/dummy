@@ -9,7 +9,7 @@
 <body style="background-color: #999999">
     <form id="form1" runat="server">
         <div>
-            <iframe style="background-color: #000000; border: 2px none #999999; position: fixed; right: 100px; bottom: 100px; height: 450px; width: 300px; color: #FFFFFF; font-family: Calibri;" src="Box2.aspx">
+            <iframe style="background-color: #FFFFFF; border: 1px solid #000000; border-radius: 20px; position: fixed; right: 100px; bottom: 100px; height: 450px; width: 300px; color: #FFFFFF; font-family: Calibri; overflow: hidden;" src="Box2.aspx">
                 
             </iframe>
 
