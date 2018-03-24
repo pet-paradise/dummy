@@ -6,10 +6,10 @@
 <head runat="server">
     <title></title>
 </head>
-<body style="background-color: #999999">
+<body style="background-color: #FFFFFF">
     <form id="form1" runat="server">
         <div>
-            <iframe style="background-color: #FFFFFF; border: 1px solid #000000; border-radius: 20px; position: fixed; right: 100px; bottom: 100px; height: 450px; width: 300px; color: #FFFFFF; font-family: Calibri; overflow: hidden;" src="Box2.aspx">
+            <iframe style="border-style: none; box-shadow: -20px 20px 40px #999999; background-color: #FFFFFF; border-radius: 7px; position: fixed; right: 100px; bottom: 100px; height: 450px; width: 300px; color: #FFFFFF; font-family: Calibri; overflow: hidden;" src="Box2.aspx">
                 
             </iframe>
 
