@@ -25,9 +25,9 @@ public class AmazonItemService {
 
     public List<Item> SearchItemByCategory(String category) {
         request.setSearchIndex(category);
-        request.setKeywords(category);
+        request.setKeywords("");
         ItemSearchResponse response = requester.itemSearch(request);
-        //List<Item> list = response.getItems().get(0).getItem();
+        List<Item> list = response.getItems().get(0).getItem();
         return response.getItems().get(0).getItem();
     }
 
